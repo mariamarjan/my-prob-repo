@@ -1,4 +1,6 @@
 div{
     background-image: url(cat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     margin: 5px;
 }
